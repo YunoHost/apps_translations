@@ -1,0 +1,5 @@
+{
+    "description": "Matrix messenger client",
+    "install_default_matrix_server_ask": "Default Matrix server",
+    "install_default_matrix_server_help": "Must be a domain name or a sub-domain. Must not contain a path."
+}
