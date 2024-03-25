@@ -1,3 +1,5 @@
 {
-    "description": "Client de messagerie Matrix"
+    "description": "Client de messagerie Matrix",
+    "install_default_matrix_server_ask": "Serveur Matrix par défaut",
+    "install_default_matrix_server_help": "Doit être un nom de domaine ou un sous-domaine. Ne doit pas contenir de chemin d'accès."
 }
