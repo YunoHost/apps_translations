@@ -1,0 +1,4 @@
+{
+    "description": "Convivial and modern music server",
+    "install_init_main_permission_help": "If enabled, Funkwhale will be accessible by Funkwhale for Android and by users without a YunoHost account. This can be changed later in the webadmin."
+}
