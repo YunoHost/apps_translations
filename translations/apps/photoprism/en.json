@@ -1,0 +1,6 @@
+{
+    "description": "AI-Powered Photos App for the Decentralized Web",
+    "install_init_main_permission_help": "If enabled, Photoprism will be accessible by mobile apps and by users without a YunoHost account. This can be changed later in the webadmin.",
+    "install_language_ask": "Choose the application language",
+    "install_password_help": "Photoprism currently supports only one user : admin. Choose a password here."
+}
