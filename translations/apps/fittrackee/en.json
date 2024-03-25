@@ -1,0 +1,7 @@
+{
+    "description": "Self-hosted outdoor activity tracker \ud83d\udeb4",
+    "install_password_help": "Choose a password for your admin user here.",
+    "install_weather_api_key_ask": "(Optional) Insert here the api key from the chosen weather provider",
+    "install_weather_api_provider_ask": "(Optional) Choose your weather provider between Darksky and Visual Crossing",
+    "install_weather_api_provider_help": "Since Fittrackee 0.7.15, only Visual Crossing is supported"
+}
