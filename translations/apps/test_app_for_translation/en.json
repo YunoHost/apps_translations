@@ -1,5 +1,5 @@
 {
-    "description": "Fast ActivityPub social network server written in Go",
+    "description": "Fast ActivityPub social network server written in Go and change the description",
     "install_accounts_approval_required_ask": "Registration approval?",
     "install_accounts_approval_required_help": "Do sign up requests require approval from an admin/moderator before an account can sign in/use the server?",
     "install_accounts_reason_required_ask": "Request registration reason?",
