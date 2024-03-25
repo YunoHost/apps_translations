@@ -1,0 +1,13 @@
+{
+    "description": "Serveur de r\u00e9seau social v\u00e9loce bas\u00e9 sur ActivityPub \u00e9crit en Go",
+    "install_accounts_approval_required_ask": "V\u00e9rification manuelle des inscriptions ?",
+    "install_accounts_approval_required_help": "Les demandes d'inscription doivent-elles \u00eatre approuv\u00e9es par un-e administrateur-ice/mod\u00e9rateur-ice avant qu'un compte puisse se connecter et utiliser le serveur ?",
+    "install_accounts_reason_required_ask": "Demande de motif pour les inscriptions ?",
+    "install_accounts_reason_required_help": "Les demandes d'inscription doivent-elles \u00eatre accompagn\u00e9e d'un motif (par exemple, une explication de la raison pour laquelle la personne veut rejoindre l'instance) ?",
+    "install_accounts_registration_open_ask": "Inscriptions ouvertes ?",
+    "install_accounts_registration_open_help": "Voulez-vous que les gens puissent envoyer des demandes d'inscription (true) ou voulez-vous que les inscriptions soient uniquement sur invitation (false) ?",
+    "install_admin_ask": "Nommez votre compte administrateur pour GoToSocial",
+    "install_admin_help": "Doit \u00eatre en minuscule et sans caract\u00e8re special.",
+    "install_email_ask": "L'adresse e-mail de votre compte admin.",
+    "install_password_help": "Il doit contenir : majuscule, minuscule, chiffre et caract\u00e8re sp\u00e9cial."
+}
