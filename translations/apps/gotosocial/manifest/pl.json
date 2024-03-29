@@ -1,0 +1,13 @@
+{
+    "description": "",
+    "install_accounts_approval_required_ask": "",
+    "install_accounts_approval_required_help": "",
+    "install_accounts_reason_required_ask": "",
+    "install_accounts_reason_required_help": "",
+    "install_accounts_registration_open_ask": "",
+    "install_accounts_registration_open_help": "",
+    "install_admin_ask": "",
+    "install_admin_help": "",
+    "install_email_ask": "",
+    "install_password_help": ""
+}
