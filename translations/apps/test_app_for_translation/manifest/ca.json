@@ -1,13 +1,13 @@
 {
-    "description": "",
-    "install_accounts_approval_required_ask": "",
-    "install_accounts_approval_required_help": "",
-    "install_accounts_reason_required_ask": "",
-    "install_accounts_reason_required_help": "",
-    "install_accounts_registration_open_ask": "",
-    "install_accounts_registration_open_help": "",
-    "install_admin_ask": "",
-    "install_admin_help": "",
-    "install_email_ask": "",
-    "install_password_help": ""
+    "description": "Un servidor de xarxa social basat en ActivityPub escrit en GO i canvia la descripció",
+    "install_accounts_approval_required_ask": "Verificació manual dels registres?",
+    "install_accounts_approval_required_help": "Ha d'aprovar manualment un administrador/moderador el registre abans que el compte pugui iniciar sessió al servidor?",
+    "install_accounts_reason_required_ask": "Motiu de la petició de registre?",
+    "install_accounts_reason_required_help": "S'ha d'afegir un motiu a la petició de registre (per exemple, el motiu pel qual volen unir-se a la instància)?",
+    "install_accounts_registration_open_ask": "Registres oberts?",
+    "install_accounts_registration_open_help": "Voleu que la gent puguin enviar peticions de registre (true), o voleu que les registres es facin únicament per invitació (false)?",
+    "install_admin_ask": "Nom pel compte d'administració de GoToSocial",
+    "install_admin_help": "Ha de ser en minúscules i sense caràcters especials.",
+    "install_email_ask": "Adreça de correu pel compte d'administració.",
+    "install_password_help": "Ha de tenir: majúscules, minúscules, xifres i caràcters especials."
 }
