@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "install_default_home_server_ask": "",
-    "install_default_home_server_help": "",
-    "install_init_main_permission_help": ""
+    "description": "Client de Matrix amb un focus en una interfície simple, elegant i segura",
+    "install_default_home_server_ask": "Triar el servidor Matrix per defecte per l'inici de sessió de Cinny",
+    "install_default_home_server_help": "Si teniu el vostre propi servidor amb Synapse, Dendrite o Conduit segurament voleu triar el domini del vostre servidor.",
+    "install_init_main_permission_help": "Normalment es permet als visitants accés a Cinny, d'aquesta manera qualsevol persona sense un compte YunoHOst pot iniciar sessió a Matrix."
 }
