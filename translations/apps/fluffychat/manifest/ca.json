@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "install_default_matrix_server_ask": "",
-    "install_default_matrix_server_help": ""
+    "description": "Client de missatgeria Matrix",
+    "install_default_matrix_server_ask": "Servidor Matrix per defecte",
+    "install_default_matrix_server_help": "Ha de ser un nom de domini o un subdomini. No pot tenir cap ruta."
 }
