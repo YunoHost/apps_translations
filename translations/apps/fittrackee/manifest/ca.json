@@ -1,7 +1,7 @@
 {
-    "description": "",
-    "install_password_help": "",
-    "install_weather_api_key_ask": "",
-    "install_weather_api_provider_ask": "",
-    "install_weather_api_provider_help": ""
+    "description": "Seguiment d'activitats a l'aire lliure autoallotjat 🚴",
+    "install_password_help": "Triar una contrasenya per a l'usuari d'administració.",
+    "install_weather_api_key_ask": "(Opcional) Inserir la clau de l'API del proveïdor del temps escollit",
+    "install_weather_api_provider_ask": "(Opcional) Escollir un proveïdor del temps entre Darksky i Visual Crossing",
+    "install_weather_api_provider_help": "Des de Fittrackee 0.7.15, només es suporta l'ús de Visual Crossing"
 }
