@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "install_init_main_permission_help": "",
-    "install_language_ask": "",
-    "install_password_help": ""
+    "description": "App de Fotos con tecnoloxía IA para a Web Descentralizada",
+    "install_init_main_permission_help": "Se está activado, Photoprism será accesible para apps móbiles e usuarias sen unha conta YunoHost. Podes cambiar isto máis tarde nos axustes de administración.",
+    "install_language_ask": "Elixe o idioma da aplicación",
+    "install_password_help": "Actualmente Photoprism só ten soporte para unha usuaria: admin. Escribe aquí o seu contrasinal."
 }
