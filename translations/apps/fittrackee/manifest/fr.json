@@ -1,7 +1,7 @@
 {
-    "description": "Traqueur d\u2019activit\u00e9s ext\u00e9rieures auto-h\u00e9berg\u00e9 \ud83d\udeb4",
-    "install_password_help": "Choisissez un mot de passe pour l\u2019utilisateur admin ici.",
-    "install_weather_api_key_ask": "(Optionnel) Ins\u00e9rez ici la cl\u00e9 API du fournisseur de m\u00e9t\u00e9o choisi",
-    "install_weather_api_provider_ask": "(Optionnel) Choisissez votre fournisseur m\u00e9t\u00e9o entre Darksky et Visual Crossing",
-    "install_weather_api_provider_help": "Depuis Fittrackee 0.7.15, seul Visual Crossing est support\u00e9"
+    "description": "Traqueur d’activités extérieures auto-hébergé 🚴",
+    "install_password_help": "Choisissez un mot de passe pour l’utilisateur admin ici.",
+    "install_weather_api_key_ask": "(Optionnel) Insérez ici la clé API du fournisseur de météo choisi",
+    "install_weather_api_provider_ask": "(Optionnel) Choisissez votre fournisseur météo entre Darksky et Visual Crossing",
+    "install_weather_api_provider_help": "Depuis Fittrackee 0.7.15, seul Visual Crossing est supporté"
 }
