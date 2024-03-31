@@ -1,6 +1,6 @@
 {
     "description": "Client matrix orienté simplicité, élégance et sécurité",
     "install_default_home_server_ask": "Choisissez un serveur Matrix par défault",
-    "install_init_main_permission_help": "Vous laisserez généralement les visiteurs accéder Cinny pour s'y connecter sans avoir de compte Yunohost.",
-    "install_default_home_server_help": "Si vous hébergez votre propre serveur avec Synapse, Dendrite ou Conduit, vous voulez probablement mettre ici le domaine de ce serveur."
+    "install_default_home_server_help": "Si vous hébergez votre propre serveur avec Synapse, Dendrite ou Conduit, vous voulez probablement mettre ici le domaine de ce serveur.",
+    "install_init_main_permission_help": "Vous laisserez généralement les visiteurs accéder Cinny pour s'y connecter sans avoir de compte Yunohost."
 }
