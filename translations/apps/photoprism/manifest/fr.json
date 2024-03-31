@@ -1,6 +1,6 @@
 {
     "description": "Gestion de photos en ligne",
-    "install_init_main_permission_help": "Si cette case est coch\u00e9e, Photoprism sera accessible par des applications mobiles et par les utilisateurs n\u2019ayant pas de compte YunoHost. Vous pourrez changer cela dans la webadmin.",
+    "install_init_main_permission_help": "Si cette case est cochée, Photoprism sera accessible par des applications mobiles et par les utilisateurs n’ayant pas de compte YunoHost. Vous pourrez changer cela dans la webadmin.",
     "install_language_ask": "Choisissez la langue de l'application",
     "install_password_help": "Photoprism ne permet qu'un seul utilisateur pour le moment. Choisissez un mot de passe ici."
 }
