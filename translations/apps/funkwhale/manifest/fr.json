@@ -1,4 +1,4 @@
 {
     "description": "Serveur de musique moderne et convivial",
-    "install_init_main_permission_help": "Si cette case est coch\u00e9e, Funkwhale sera accessible par Funkwhale for Android et par les utilisateurs n\u2019ayant pas de compte YunoHost. Vous pourrez changer cela dans la webadmin."
+    "install_init_main_permission_help": "Si cette case est cochée, Funkwhale sera accessible par Funkwhale for Android et par les utilisateurs n’ayant pas de compte YunoHost. Vous pourrez changer cela dans la webadmin."
 }
