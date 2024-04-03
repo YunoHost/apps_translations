@@ -7,7 +7,7 @@
     "install_accounts_registration_open_ask": "Rexistro aberto?",
     "install_accounts_registration_open_help": "Queres permitir que calquera poida solicitar unha conta (verdadeiro), ou queres que só sexa a través de convite (falso)?",
     "install_admin_ask": "Nome da usuaria administradora en GoToSocial",
-    "install_admin_help": "ten que ser con minúsculas e sen caracteres especiais.",
+    "install_admin_help": "Ten que ser con minúsculas e sen caracteres especiais.",
     "install_email_ask": "O enderezo de correo electrónico da conta Admin.",
     "install_password_help": "Ten que conter: maiúscula, minúscula, número e caracteres especiais."
 }
