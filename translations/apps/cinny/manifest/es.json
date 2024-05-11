@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "install_default_home_server_ask": "",
-    "install_default_home_server_help": "",
+    "description": "Cliente Matrix con objetivo de proponer en una interfase simple, agradable y segura.",
+    "install_default_home_server_ask": "Elija el servidor Matrix por defecto",
+    "install_default_home_server_help": "Si esta alojando su propio servidor Synapse, Dendrite or Conduit, probablemente desea que este sear su dominio de servidor.",
     "install_init_main_permission_help": ""
 }
