@@ -1,4 +1,4 @@
 {
-    "description": "",
-    "install_init_main_permission_help": ""
+    "description": "Servidor de música convivial y moderno",
+    "install_init_main_permission_help": "Si activado, Funkwhale sera accesible por Funkwhale para Android y usuarios sin cuenta Yunohost. Esto puede ser cambiado mas tarde en la interfaces de administración"
 }
