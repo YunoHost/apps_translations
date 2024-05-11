@@ -1,7 +1,7 @@
 {
-    "description": "",
-    "install_accounts_approval_required_ask": "",
-    "install_accounts_approval_required_help": "",
+    "description": "Servidor eficiente para la Red social ActivityPub escrito en Go",
+    "install_accounts_approval_required_ask": "Autorizar creación de cuenta?",
+    "install_accounts_approval_required_help": "La creación de cuenta necesita aprobación de un administrador antes de poder ingresar al servidor?",
     "install_accounts_reason_required_ask": "",
     "install_accounts_reason_required_help": "",
     "install_accounts_registration_open_ask": "",
