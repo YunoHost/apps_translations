@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "install_default_matrix_server_ask": "",
-    "install_default_matrix_server_help": ""
+    "description": "Cliente de mensajería para la red Matrix",
+    "install_default_matrix_server_ask": "Servidor Matrix por defecto",
+    "install_default_matrix_server_help": "Debe ser un nombre de dominio o subdominio. No debe contener directorio."
 }
