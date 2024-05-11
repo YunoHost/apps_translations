@@ -1,7 +1,7 @@
 {
-    "description": "",
-    "install_password_help": "",
-    "install_weather_api_key_ask": "",
-    "install_weather_api_provider_ask": "",
+    "description": "Rastreador de actividad al aire libre 🚴",
+    "install_password_help": "Elija una contraseña para el administrador.",
+    "install_weather_api_key_ask": "(opcional) ingresa la clave de API del proveedor de tiempo elegido",
+    "install_weather_api_provider_ask": "(Opcional) Elige su proveedor de tiempo entre Darksky y Visual Crossing",
     "install_weather_api_provider_help": ""
 }
