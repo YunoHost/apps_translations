@@ -1,6 +1,6 @@
 {
-    "description": "Cliente Matrix con objetivo de proponer en una interfase simple, agradable y segura.",
+    "description": "Cliente Matrix con objetivo de proponer en una interfaz simple, agradable y segura.",
     "install_default_home_server_ask": "Elija el servidor Matrix por defecto",
-    "install_default_home_server_help": "Si esta alojando su propio servidor Synapse, Dendrite or Conduit, probablemente desea que este sear su dominio de servidor.",
-    "install_init_main_permission_help": ""
+    "install_default_home_server_help": "Si esta alojando su propio servidor Synapse, Dendrite o Conduit, probablemente desea que este sea su dominio de servidor.",
+    "install_init_main_permission_help": "Dejaran probablemente visitantes acceder a Cinny. Así cualquier persona sin cuenta en su servidor podrá registrar en Matrix."
 }
