@@ -1,4 +1,4 @@
 {
     "description": "",
-    "install_init_main_permission_help": ""
+    "install_init_main_permission_help": "Wenn aktiviert, ist Funkwhale auch für die App Funkwhale für Android und Nutzende ohne YunoHost Konto verfügbar. Diese Einstellung kann über die Webadmin Oberfläche geändert werden."
 }
