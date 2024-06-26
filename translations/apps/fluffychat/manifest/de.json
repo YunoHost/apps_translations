@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "install_default_matrix_server_ask": "",
+    "description": "Messenger Client für Matrix",
+    "install_default_matrix_server_ask": "Standard Matrix Server",
     "install_default_matrix_server_help": ""
 }
