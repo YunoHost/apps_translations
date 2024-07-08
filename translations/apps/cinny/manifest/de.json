@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "install_default_home_server_ask": "",
-    "install_default_home_server_help": "",
-    "install_init_main_permission_help": ""
+    "description": "Ein Matrix Client, der sich auf Einfachheit, Eleganz und Sicherheit fokussiert",
+    "install_default_home_server_ask": "wähle einen Standard Matrixserver",
+    "install_default_home_server_help": "Wenn du bereits einen eigenen Server mit Synapse, Dendrite oder Conduit betreibst, wird dies vermutlich die Domain dieses Servers sein.",
+    "install_init_main_permission_help": "Du kannst Cinny von Besucher Cinny aufrufen lassen, so dass auch Personen ohne Yunohost Zugang darauf zu greifen können."
 }
