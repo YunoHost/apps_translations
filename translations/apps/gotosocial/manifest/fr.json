@@ -7,7 +7,7 @@
     "install_accounts_registration_open_ask": "Inscriptions ouvertes ?",
     "install_accounts_registration_open_help": "Voulez-vous que les gens puissent envoyer des demandes d'inscription (true) ou voulez-vous que les inscriptions soient uniquement sur invitation (false) ?",
     "install_admin_ask": "Nommez votre compte administrateur pour GoToSocial",
-    "install_admin_help": "Doit être en minuscule et sans caractère special.",
+    "install_admin_help": "Doit être en minuscule et sans caractère spécial.",
     "install_email_ask": "L'adresse e-mail de votre compte admin.",
     "install_password_help": "Il doit contenir : majuscule, minuscule, chiffre et caractère spécial."
 }
