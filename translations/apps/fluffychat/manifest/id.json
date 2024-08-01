@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "install_default_matrix_server_ask": "",
-    "install_default_matrix_server_help": ""
+    "description": "Klien pengirim pesan matriks",
+    "install_default_matrix_server_ask": "Server Matrix bawaan",
+    "install_default_matrix_server_help": "Hanya nama domain atau sub-domain. Tidak boleh berisi jalur."
 }
