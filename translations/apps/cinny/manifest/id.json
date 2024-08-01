@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "install_default_home_server_ask": "",
-    "install_default_home_server_help": "",
-    "install_init_main_permission_help": ""
+    "description": "Fokus utama klien Matrix adalah antarmuka yang sederhana, elegan dan aman",
+    "install_default_home_server_ask": "Pilih server Matrix bawaan untuk masuk di Cinny",
+    "install_default_home_server_help": "Jika Anda menjalankan server Anda sendiri menggunakan Synapse, Dendrite, atau Conduit mungkin Anda ingin menjadikannya sebagai domain server Anda.",
+    "install_init_main_permission_help": "Anda biasanya mengizinkan pengunjung mengakses Cinny sehingga siapa pun yang tidak memiliki akun Yunohost dapat masuk ke Matrix."
 }
