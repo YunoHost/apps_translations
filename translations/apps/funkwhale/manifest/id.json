@@ -1,4 +1,4 @@
 {
-    "description": "",
-    "install_init_main_permission_help": ""
+    "description": "Server musik yang ramah dan modern",
+    "install_init_main_permission_help": "Jika diaktifkan, Funkwhale akan dapat diakses oleh Funkwhale untuk Android dan oleh pengguna tanpa akun YunoHost. Ini dapat diubah nanti pada webadmin."
 }
