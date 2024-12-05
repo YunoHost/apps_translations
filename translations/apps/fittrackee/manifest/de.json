@@ -1,7 +1,7 @@
 {
     "description": "",
-    "install_password_help": "",
-    "install_weather_api_key_ask": "",
-    "install_weather_api_provider_ask": "",
-    "install_weather_api_provider_help": ""
+    "install_password_help": "Geben sie hier ein Administrationspasswort ein.",
+    "install_weather_api_key_ask": "(Optional) Geben Sie hier den API Schlüssel für den gewählten Wetterdatenanbieter",
+    "install_weather_api_provider_ask": "(Optional) Sie können Darksky oder Visual Crossing als Wetterdatenanbieter wählen",
+    "install_weather_api_provider_help": "Ab Fittrackee 0.7.15, wird nur noch Visual Crossing unterstützt"
 }
