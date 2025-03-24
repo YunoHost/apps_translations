@@ -1,7 +1,7 @@
 {
     "description": "Un servidor eficiente para a rede social ActivityPub escrito en Go",
     "install_accounts_approval_required_ask": "Aprobar novas contas?",
-    "install_accounts_approval_required_help": "Para indicar se, após crear unha conta, esta debe ser aprobada pola administración antes de poder usar o servidor",
+    "install_accounts_approval_required_help": "Para indicar se ao crear unha conta esta debe ser aprobada pola administración antes de poder usar o servidor.",
     "install_accounts_reason_required_ask": "Requerir razón para crear conta?",
     "install_accounts_reason_required_help": "Requerir que a solicitante indique un motivo no momento de solicitar a creación da conta. (ex., explicar por que quere unirse á instancia)",
     "install_accounts_registration_open_ask": "Rexistro aberto?",
