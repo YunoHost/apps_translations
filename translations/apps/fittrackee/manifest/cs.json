@@ -1,7 +1,7 @@
 {
     "description": "",
-    "install_password_help": "",
+    "install_password_help": "Zde se vyberte heslo pro svůj administrátorský účet.",
     "install_weather_api_key_ask": "",
     "install_weather_api_provider_ask": "",
-    "install_weather_api_provider_help": ""
+    "install_weather_api_provider_help": "Od Fittrackee 0.7.15, pouze Visual Crossing je podporován"
 }
