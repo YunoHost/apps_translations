@@ -1,13 +1,13 @@
 {
-    "description": "",
-    "install_accounts_approval_required_ask": "",
-    "install_accounts_approval_required_help": "",
-    "install_accounts_reason_required_ask": "",
-    "install_accounts_reason_required_help": "",
-    "install_accounts_registration_open_ask": "",
-    "install_accounts_registration_open_help": "",
-    "install_admin_ask": "",
-    "install_admin_help": "",
-    "install_email_ask": "",
-    "install_password_help": ""
+    "description": "Rychlý server ActivityPub sociální sítě napsaný v Go a změňte popisek",
+    "install_accounts_approval_required_ask": "Schvalování registrací?",
+    "install_accounts_approval_required_help": "Musí být požadavky o registraci schváleny administrátorem/moderátorem předtím než se může uživatel přihlásit/používat server?",
+    "install_accounts_reason_required_ask": "Požadovat důvod pro registraci?",
+    "install_accounts_reason_required_help": "Je nutné při požadavku o registraci uvést důvod pro požadavek (zdůvodnění proč se chtějí připojit k instanci)?",
+    "install_accounts_registration_open_ask": "Otevřít registrace?",
+    "install_accounts_registration_open_help": "Chcete aby mohli lidé jednoduše o registraci požádat (ano) nebo udělat registrace pouze na základě pozvání (ne)?",
+    "install_admin_ask": "Pojmenujte svůj administrativní účet pro GoToSocial",
+    "install_admin_help": "Musí být v malých písmenech a bez speciálních znaků.",
+    "install_email_ask": "Emailová adresa vašeho administrativního účtu.",
+    "install_password_help": "Musí obsahovat: velké písmeno, malé písmeno, číslo a znak."
 }
