@@ -1,4 +1,4 @@
 {
     "description": "Společenský a moderní hudební server",
-    "install_init_main_permission_help": ""
+    "install_init_main_permission_help": "Pokud je tato možnost povolena, Funkwhale bude přístupný pro Funkwhale pro Android a pro uživatele bez účtu YunoHost. Toto lze později změnit ve webadminu."
 }
