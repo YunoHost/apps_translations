@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "install_init_main_permission_help": "",
+    "description": "Fotografická aplikace pro decentralizovaný web poháněna s AI",
+    "install_init_main_permission_help": "Pokud je tato funkce povolena, bude Photoprism přístupný skrze mobilní aplikace a uživatelům bez účtu YunoHost. Toto lze později změnit ve webadminu.",
     "install_language_ask": "Vyberte si jazyk aplikace",
     "install_password_help": "Photoprism momentálně podporuje pouze jednoho uživatele: admin. Zde si vyberte heslo."
 }
