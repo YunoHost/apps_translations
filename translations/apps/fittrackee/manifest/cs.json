@@ -1,7 +1,7 @@
 {
-    "description": "",
+    "description": "Self-hostovaný záznam outdoor aktivit 🚴",
     "install_password_help": "Zde se vyberte heslo pro svůj administrátorský účet.",
-    "install_weather_api_key_ask": "",
-    "install_weather_api_provider_ask": "",
+    "install_weather_api_key_ask": "(Nepovinné) Zde vložte klíč API od vybraného poskytovatele počasí",
+    "install_weather_api_provider_ask": "(Nepovinné) Vyberte si poskytovatele počasí mezi Darksky a Visual Crossing",
     "install_weather_api_provider_help": "Od Fittrackee 0.7.15, pouze Visual Crossing je podporován"
 }
