@@ -1,6 +1,6 @@
 {
     "description": "Matrix klient zaměřený primárně na jednoduché, elegantní a bezpečné rozhraní",
-    "install_default_home_server_ask": "",
-    "install_default_home_server_help": "",
-    "install_init_main_permission_help": ""
+    "install_default_home_server_ask": "Výběr výchozího Matrix serveru pro přihlášení Cinny",
+    "install_default_home_server_help": "Pokud používáte vlastní server s aplikacemi Synapse, Dendrite nebo Conduit, pravděpodobně budete chtít, aby toto byla doména vašeho serveru.",
+    "install_init_main_permission_help": "Návštěvníkům obvykle umožníte přístup do Cinny, takže se do Matrixu může přihlásit i ten, kdo nemá účet Yunohost."
 }
