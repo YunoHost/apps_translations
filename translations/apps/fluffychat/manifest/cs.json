@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "install_default_matrix_server_ask": "",
-    "install_default_matrix_server_help": ""
+    "description": "Matrix messenger klient",
+    "install_default_matrix_server_ask": "Výchozí Matrix server",
+    "install_default_matrix_server_help": "Musí být doména nebo poddoména. Nesmí obsahovat cestu."
 }
