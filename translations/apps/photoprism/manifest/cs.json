@@ -1,6 +1,6 @@
 {
     "description": "",
     "install_init_main_permission_help": "",
-    "install_language_ask": "",
-    "install_password_help": ""
+    "install_language_ask": "Vyberte si jazyk aplikace",
+    "install_password_help": "Photoprism momentálně podporuje pouze jednoho uživatele: admin. Zde si vyberte heslo."
 }
