@@ -2,12 +2,12 @@
     "description": "",
     "install_accounts_approval_required_ask": "",
     "install_accounts_approval_required_help": "",
-    "install_accounts_reason_required_ask": "",
+    "install_accounts_reason_required_ask": "Assuter n ssebba n ujerred?",
     "install_accounts_reason_required_help": "",
     "install_accounts_registration_open_ask": "",
     "install_accounts_registration_open_help": "",
-    "install_admin_ask": "",
+    "install_admin_ask": "Semmi aseqdac-ik n unedbal i GoToSocial",
     "install_admin_help": "",
-    "install_email_ask": "",
+    "install_email_ask": "Tansa n yimayl n umiḍan-ik anedbal.",
     "install_password_help": ""
 }
