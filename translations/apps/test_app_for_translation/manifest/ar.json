@@ -1,13 +1,13 @@
 {
     "description": "",
-    "install_accounts_approval_required_ask": "",
+    "install_accounts_approval_required_ask": "التحقق يدويا من التسجيلات؟",
     "install_accounts_approval_required_help": "",
-    "install_accounts_reason_required_ask": "",
+    "install_accounts_reason_required_ask": "طلب دافع التسجيل؟",
     "install_accounts_reason_required_help": "",
-    "install_accounts_registration_open_ask": "",
+    "install_accounts_registration_open_ask": "التسجيلات متاحة؟",
     "install_accounts_registration_open_help": "",
-    "install_admin_ask": "",
+    "install_admin_ask": "قم بإعطاء اسم لمدير GoToSocial",
     "install_admin_help": "",
-    "install_email_ask": "",
+    "install_email_ask": "العنوان الإلكتروني لحساب المدير الخاص بك.",
     "install_password_help": ""
 }
